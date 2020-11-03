@@ -34,6 +34,9 @@
 ## &#x1f4c8; GitHub Stats
 ![Kosi's github stats](https://github-readme-stats.vercel.app/api?username=kosiazom&show_icons=true&theme=dracula)
 
+## Thanks for visiting! ✌
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kosiazom.visitor-badge)
 
 <!--
 **kosiazom/kosiazom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
